@@ -1,2 +1,2 @@
-# 3031finaproject
+# 3031finalproject
 Based on Panda Cafe
